@@ -16,7 +16,7 @@ A repository containing my data science portfolio for self learning and hobby pu
 
 - __Python__
     - ...
-    - _Tools: Pandas, Matplotlib ..._
+    - _Tools: Pandas, Matplotlib, numpy..._
 
 
 If you liked what you see above and want to have a chat with me about work opportunities, or collaboration, send me an email at utkukaraca@outlook.com.
