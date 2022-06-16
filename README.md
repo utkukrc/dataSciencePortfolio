@@ -9,8 +9,8 @@ A repository containing my data science portfolio for self learning and hobby pu
 ### Predictive modeling
 
 - __Python__
-    - ...
-    - _Tools: scikit-learn, Pandas, Matplotlib, ..._ 
+    - A tutorial on PySpark using Diabetes dataset.
+    - _Tools: scikit-learn, Pandas, Matplotlib, PySpark, ..._ 
 
 ### Data Analysis
 
